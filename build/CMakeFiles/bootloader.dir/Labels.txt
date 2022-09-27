@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/enio/Documents/esp32_projects/octaCAM/build/CMakeFiles/bootloader
+/home/enio/Documents/esp32_projects/octaCAM/build/CMakeFiles/bootloader.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/CMakeFiles/bootloader-complete.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/enio/Documents/esp32_projects/octaCAM/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

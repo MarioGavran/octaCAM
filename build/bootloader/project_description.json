@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/enio/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/enio/Documents/esp32_projects/octaCAM/build/bootloader",
+    "config_file":        "/home/enio/Documents/esp32_projects/octaCAM/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.1-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/enio/esp/esp-idf/components/efuse/Kconfig;/home/enio/esp/esp-idf/components/esp32/Kconfig;/home/enio/esp/esp-idf/components/esp_common/Kconfig;/home/enio/esp/esp-idf/components/esp_hw_support/Kconfig;/home/enio/esp/esp-idf/components/esp_system/Kconfig;/home/enio/esp/esp-idf/components/freertos/Kconfig;/home/enio/esp/esp-idf/components/hal/Kconfig;/home/enio/esp/esp-idf/components/log/Kconfig;/home/enio/esp/esp-idf/components/newlib/Kconfig;/home/enio/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/enio/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/enio/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/home/enio/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/enio/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/enio/esp/esp-idf/components/bootloader", "/home/enio/esp/esp-idf/components/bootloader_support", "/home/enio/esp/esp-idf/components/efuse", "/home/enio/esp/esp-idf/components/esp32", "/home/enio/esp/esp-idf/components/esp_common", "/home/enio/esp/esp-idf/components/esp_hw_support", "/home/enio/esp/esp-idf/components/esp_rom", "/home/enio/esp/esp-idf/components/esp_system", "/home/enio/esp/esp-idf/components/esptool_py", "/home/enio/esp/esp-idf/components/freertos", "/home/enio/esp/esp-idf/components/hal", "/home/enio/esp/esp-idf/components/log", "/home/enio/esp/esp-idf/components/bootloader/subproject/main", "/home/enio/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/enio/esp/esp-idf/components/newlib", "/home/enio/esp/esp-idf/components/partition_table", "/home/enio/esp/esp-idf/components/soc", "/home/enio/esp/esp-idf/components/spi_flash", "/home/enio/esp/esp-idf/components/xtensa", "" ]
+}
